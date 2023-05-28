@@ -1,0 +1,8 @@
+﻿  block16.cpp
+  chat.cpp
+  Sha1.cpp
+C:\Users\1\Desktop\block16\block16\Sha1.cpp(37,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\1\Desktop\block16\block16\chat.cpp(160): warning C4715: Chat::GetNameByLogin: значение возвращается не при всех путях выполнения
+C:\Users\1\Desktop\block16\block16\chat.cpp(147): warning C4715: Chat::GetLoginByUserName: значение возвращается не при всех путях выполнения
+  block16.vcxproj -> C:\Users\1\Desktop\block16\Debug\block16.exe
